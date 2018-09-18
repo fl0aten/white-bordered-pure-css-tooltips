@@ -1,2 +1,4 @@
-# white-bordered-pure-css-tooltip
-White tooltips with border only with pure CSS, without JavaScript or extra elements.
+# White Bordered Pure Css Tooltips
+White bordered tooltips only with pure CSS. Without JavaScript or extra elements.
+
+Demo on CodePen: [https://codepen.io/floaten/pen/XPyZXQ](https://codepen.io/floaten/pen/XPyZXQ)
